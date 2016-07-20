@@ -1,0 +1,99 @@
+[
+  {
+    "_id": 410951,
+    "alternativeNames": {},
+    "coreCountry": false,
+    "country": "USA",
+    "countryCode": "US",
+    "countryId": 225,
+    "distance": null,
+    "fullName": "New York, USA",
+    "geo_position": {
+      "latitude": 40.71427,
+      "longitude": -74.00597
+    },
+    "iata_airport_code": null,
+    "inEurope": false,
+    "key": null,
+    "locationId": 43187,
+    "name": "New York",
+    "names": {
+      "ca": "Nova York",
+      "es": "Nueva York",
+      "is": "New York borg",
+      "pl": "Nowy Jork",
+      "pt": "Nova Iorque",
+      "ru": "Нью-Йорк",
+      "tr": "New York kenti",
+      "zh": "纽约"
+    },
+    "type": "location"
+  },
+  {
+    "_id": 410831,
+    "alternativeNames": {},
+    "coreCountry": false,
+    "country": "USA",
+    "countryCode": "US",
+    "countryId": 225,
+    "distance": null,
+    "fullName": "West New York, USA",
+    "geo_position": {
+      "latitude": 40.78788,
+      "longitude": -74.01431
+    },
+    "iata_airport_code": null,
+    "inEurope": false,
+    "key": null,
+    "locationId": 43067,
+    "name": "West New York",
+    "names": {},
+    "type": "location"
+  },
+  {
+    "_id": 316369,
+    "alternativeNames": {},
+    "coreCountry": false,
+    "country": "USA",
+    "countryCode": "US",
+    "countryId": 225,
+    "distance": null,
+    "fullName": "New York Kennedy (JFK), USA",
+    "geo_position": {
+      "latitude": 40.64441,
+      "longitude": -73.78275
+    },
+    "iata_airport_code": "JFK",
+    "inEurope": false,
+    "key": null,
+    "locationId": null,
+    "name": "New York Kennedy",
+    "names": {
+      "ca": "Kennedy Nova York"
+    },
+    "type": "airport"
+  },
+  {
+    "_id": 316368,
+    "alternativeNames": {},
+    "coreCountry": false,
+    "country": "USA",
+    "countryCode": "US",
+    "countryId": 225,
+    "distance": null,
+    "fullName": "New York La Guardia (LGA), USA",
+    "geo_position": {
+      "latitude": 40.77454,
+      "longitude": -73.87199
+    },
+    "iata_airport_code": "LGA",
+    "inEurope": false,
+    "key": null,
+    "locationId": null,
+    "name": "New York La Guardia",
+    "names": {
+      "ca": "La Guàrdia Nova York"
+    },
+    "type": "airport"
+  }
+]
