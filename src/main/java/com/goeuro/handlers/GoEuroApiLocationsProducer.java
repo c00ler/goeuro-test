@@ -57,7 +57,7 @@ public class GoEuroApiLocationsProducer implements Handler {
         final List<Location> locations = exchange.getBody();
 
         if (locations == null || locations.isEmpty()) {
-            LOGGER.info("No locations found for requested city [{}]", locationsRequest.getCity());
+            LOGGER.info("No locations found for the requested city [{}]", locationsRequest.getCity());
 
             return locationsRequest;
         }
