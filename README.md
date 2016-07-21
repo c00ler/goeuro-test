@@ -24,5 +24,4 @@ After building program can be executed using the following command:
 
 By default results will be written into the file named ```result.csv``` in the current folder. Program
 checks if the file with such a name already exists in the current folder. If file already exists program will
-not run, to avoid data corruption. Name and location of the file and other settings can be changed in 
-```application.properties```. 
+not run, to avoid data corruption. Name and location of the file and other settings can be changed in ```application.properties```. 
